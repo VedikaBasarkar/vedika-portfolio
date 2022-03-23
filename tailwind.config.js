@@ -9,6 +9,7 @@ module.exports = {
     },
     theme: {
         colors: {
+            transparent:'transparent',
             white: colors.white,
             black: colors.black,
             red: colors.red,
@@ -19,9 +20,6 @@ module.exports = {
             green: colors.emerald,
             yellow: colors.yellow,
             orange: colors.orange,
-            coolGray: colors.coolGray,
-            blueGray: colors.blueGray,
-            trueGray: colors.trueGray,
             gray: colors.gray,
             lime: colors.lime,
             rose: colors.rose,
@@ -78,9 +76,7 @@ module.exports = {
         extend: {
             colors: {
                 primary: '#1B69E6',
-                primaryDark: '#111827',
                 secondary: '#99F3BD',
-                secondaryDark: '#5EEAD4',
                 light: '#E5E7EB',
                 dark: '#000',
             },

@@ -16,7 +16,7 @@
           @click="scrollToTop()"
           class=" flex justify-center items-center w-10 h-10 rounded"
         >
-        <g-image src="https://res.cloudinary.com/vitwit-technologies/image/upload/v1639296677/Vitwit%20Website/Global_utility_icon/7_gototop_icon_dormant_vitwit_ortigan_vbrvpf.svg"></g-image>
+        hi
         </button>
         </div>
       <Footer/>

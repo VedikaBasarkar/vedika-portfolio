@@ -305,10 +305,6 @@
                   style="text-transform: uppercase"
                   >Contact Us</router-link
                 >
-                <!-- <p class="text-gray-300 text-center text-sm font-light mt-6" style="text-transform: uppercase">
-              Vitwit is a one-stop solution to your Blockchain requirements, of
-              ANY complexity.
-            </p> -->
               </div>
             </transition>
           </div>
