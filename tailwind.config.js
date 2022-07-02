@@ -77,15 +77,18 @@ module.exports = {
         },
         extend: {
             colors: {
-                primary: '#1B69E6',
-                primaryDark: '#111827',
-                secondary: '#99F3BD',
-                secondaryDark: '#5EEAD4',
-                light: '#E5E7EB',
-                dark: '#000',
+                primary: '#0093AB',
+                primaryDark: '#006778',
+                primaryLight: '#08C8DC',
+                secondary: '#FFDA4F',
+                light: '#F5F5F5',
+                dark: '#181B1C',
+                greyDark: '#6A8185',
+                greyLight: '#C1CACC'
             },
             fontFamily: {
-                primary: ['Ubuntu', 'sans-serif'],
+                primary: ['Playfair Display', 'serif'],
+                poppins: ['Poppins', 'sans-serif']
             },
             spacing: {
                 '78': '20rem',

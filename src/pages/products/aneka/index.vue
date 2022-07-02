@@ -1,5 +1,5 @@
 <template>
-  <div class="bg-dark">
+  <div class="bg-white">
       <MainLayout>
         <div class="absolute top-0 right-0 h-screen hidden md:block">
           <!-- <div class="h-3/4 bgMazeImage" />

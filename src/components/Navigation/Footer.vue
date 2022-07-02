@@ -1,96 +1,30 @@
 <template>
-  <div class="text-gray-100 text-sm py-10">
+  <div class="text-dark text-sm py-10 bg-white">
     <footer>
-      <div
-        class="
-          container
-          w-full
-          flex flex-col
-          md:flex-row
-          items-center
-          justify-center
-          md:justify-between
-        "
-      >
-        <div class="w-full flex flex-row justify-center md:w-2/5 my-3 md:my-0">
-          <g-image
-            class="w-56 md:w-full"
-            src="https://res.cloudinary.com/vitwit-technologies/image/upload/v1635195566/Vitwit%20Website/vitwit_logo/footer_vitwit_logo.svg"
-          />
-        </div>
+      <div class="px-5 md:px-20">
+        <div class="font-primary text-5xl my-6 mr-8">Let's work together</div>
         <div
           class="
             w-full
-            md:w-1/5
-            my-3
-            flex flex-row
-            justify-center
-            md:flex-col
-            px-0
-            md:px-4
+            flex flex-col
+            md:flex-row
           "
         >
-          <div class="flex flex-row justify-start md:justify-center">
-            <!-- map redirection -->
-            <a href="https://g.page/vitwit?share" target="_blank">
-              <g-image
-                class="ml-2 md:m-1 h-10 md:h-14"
-                src="https://res.cloudinary.com/vitwit-technologies/image/upload/v1635195491/Vitwit%20Website/icons/location_icon.svg"
-              />
-            </a>
-            <!-- call redirection -->
-            <a href="tel:+918500192539" target="_blank">
-              <g-image
-                class="ml-2 md:m-1 h-10 md:h-14"
-                src="https://res.cloudinary.com/vitwit-technologies/image/upload/v1635195491/Vitwit%20Website/icons/contact_logo.svg"
-              />
-            </a>
+          <div class="w-full md:w-1/4">
+            <div class="font-primary text-3xl my-6 mr-8">Contact</div>
+            <div class="font-poppins leading-5 my-2">basarkarvedika@gmail.com</div>
+            <div class="font-poppins leading-5 my-2">+91 98 3445 6702</div>
           </div>
-          <div class="flex flex-row justify-start md:justify-center">
-            <!-- whatsapp redirection -->
-            <a
-              href="https://wa.me/918500192539?text=Hello%20Vitwit"
-              target="_blank"
-            >
-              <g-image
-                class="ml-2 md:m-1 h-10 md:h-14"
-                src="https://res.cloudinary.com/vitwit-technologies/image/upload/v1635195491/Vitwit%20Website/icons/whatsapp_logo.svg"
-              />
-            </a>
-            <!-- mail redirection -->
-            <a href="mailto:contact@vitwit.com" target="_blank">
-              <g-image
-                class="ml-2 md:m-1 h-10 md:h-14"
-                src="https://res.cloudinary.com/vitwit-technologies/image/upload/v1635195490/Vitwit%20Website/icons/email_logo.svg"
-              />
-            </a>
+          <div class="w-full md:w-1/4">
+            <div class="font-primary text-3xl my-6 mr-8">Follow</div>
+            <div class="flex flex-row items-center">
+              <a href=""><img class="mr-8" src="https://res.cloudinary.com/db3h7h0pa/image/upload/v1656782429/vedika-portfolio/icons/linkedin_ewffh3.svg" /></a>
+              <a href=""><img class="mr-8" src="https://res.cloudinary.com/db3h7h0pa/image/upload/v1656782419/vedika-portfolio/icons/instagram_eamklr.svg" /></a>
+              <a href=""><img class="mr-8" src="https://res.cloudinary.com/db3h7h0pa/image/upload/v1656782389/vedika-portfolio/icons/github_qzaihp.svg" /></a>
+              <a href=""><img class="mr-8 h-7" src="https://res.cloudinary.com/db3h7h0pa/image/upload/v1656782976/vedika-portfolio/icons/behance_bbirt0.svg" /></a>
+              <a href=""><img class="mr-8" src="https://res.cloudinary.com/db3h7h0pa/image/upload/v1656782396/vedika-portfolio/icons/codepen_hmrwef.svg" /></a>
+            </div>
           </div>
-        </div>
-        <div
-          class="
-            w-full
-            md:w-2/5
-            my-3
-            text-center
-            md:text-left
-            text-xs
-            md:text-base
-            font-thin
-          "
-        >
-          <p class="text-white mb-2">
-            Copyright © {{ new Date().getFullYear() }} Vitwit. All Rights
-            Reserved.
-          </p>
-          <p class="text-gray-400 cursor-pointer">
-            Privacy Policy - Terms &amp; Conditions
-          </p>
-          <p>
-            Designed & Developed By
-            <a href="https://www.ortigan.com/" target="__blank"
-              ><span class="italic font-semibold">Ortigan</span></a
-            >
-          </p>
         </div>
       </div>
     </footer>

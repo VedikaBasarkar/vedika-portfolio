@@ -1,5 +1,5 @@
 <template>
-  <div class="bg-dark">
+  <div class="bg-white">
       <MainLayout>
         <!-- <div class="absolute top-0 right-0 h-screen hidden md:block">
           <g-image class="h-4/5 bgMaze-stroke opacity-50" src="https://res.cloudinary.com/vitwit-technologies/image/upload/v1634025708/Vitwit%20Website/backgrounds/Regular_Page_Headers_oh64cu.svg" />
