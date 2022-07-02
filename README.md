@@ -1,4 +1,5 @@
-# Vedika's portfolio Website
+# Vitwit Official Website
+Dev Link: [Click Here](https://vitwit-dev.surge.sh/)
 
 ## Build Setup
 
@@ -14,3 +15,5 @@ $ gridsome build
 
 ```
 Publish directory : `/dist`
+> Designed & Developed by - [Ortigan Technologies](https://www.ortigan.com/)
+> ![](https://img.shields.io/badge/Developed%20By-Ortigan-brightgreen)
