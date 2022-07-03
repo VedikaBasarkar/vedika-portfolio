@@ -38,7 +38,7 @@
   </div>
 
 <!-- Hobby Work -->
-  <div class="text-4xl md:px-20 md:pt-10">Hobby Work</div>
+  <!-- <div class="text-4xl md:px-20 md:pt-10">Hobby Work</div>
   <div class="flex flex-row flex-wrap md:px-10">
     <div 
       v-for="(h, index) in hobbies"
@@ -53,11 +53,12 @@
       </div>
       </router-link>
     </div>
-  </div>
+  </div> -->
 </div>
 </template>
 
 <script>
+import ASKimage from '../../../static/ask-organic.png'
 export default {
   data() {
     return {
@@ -86,14 +87,6 @@ export default {
               imgUrl:'https://res.cloudinary.com/db3h7h0pa/image/upload/v1656837698/vedika-portfolio/projects/front_uev1xo.jpg',
               content: `I can also attest. @vitwit_ is one of the best dev teams in the space and we are so proud and grateful to work with them... Excited they are supporting Akash as well.`
           },
-          {
-              id:4,
-              name:`MomMade Organic `,
-              title:`Mom Made Organic`,
-              url:`/mom-made`,
-              imgUrl:'https://res.cloudinary.com/db3h7h0pa/image/upload/v1656699822/vedika-portfolio/IMG_20200928_131917_fisei6.jpg',
-              content: `I can also attest. @vitwit_ is one of the best dev teams in the space and we are so proud and grateful to work with them... Excited they are supporting Akash as well.`
-          },
       ],
 
       webProjects: [
@@ -103,47 +96,27 @@ export default {
               title:`Vitwit`,
               url:`/vitwit`,
               imgUrl: 'https://res.cloudinary.com/db3h7h0pa/image/upload/v1656699830/vedika-portfolio/IMG_20201022_174839_uqfu2r.jpg',
-              content:`The @vitwit_  team has been rocking it and contributing to all layers of the stack: #tendermint, #cosmossdk, and #ibc. Mad props, and look forward to continuing to work with y'all!`
           },
           {
               id:2,
               name:`Nomadspaces`,
               title:`Nomadspaces`,
               url:`/nomadspaces`,
-              imgUrl:'https://res.cloudinary.com/db3h7h0pa/image/upload/v1656699822/vedika-portfolio/IMG_20200928_131917_fisei6.jpg',
-              content: `I can also attest. @vitwit_ is one of the best dev teams in the space and we are so proud and grateful to work with them... Excited they are supporting Akash as well.`
+              imgUrl:'https://res.cloudinary.com/binarycode/image/upload/v1629889127/Nomads/Landing%20Page/nomads_lander_resized_ortigan-02_fnzom6_min_rfcobj.png',
           },
           {
               id:3,
               name:`JNEC`,
               title:`JNEC`,
               url:`/jnec`,
-              imgUrl:'https://res.cloudinary.com/db3h7h0pa/image/upload/v1656699822/vedika-portfolio/IMG_20200928_131917_fisei6.jpg',
-              content: `I can also attest. @vitwit_ is one of the best dev teams in the space and we are so proud and grateful to work with them... Excited they are supporting Akash as well.`
+              imgUrl:'../../../static/jnec.png',
           },
           {
               id:4,
               name:`ASK Organic`,
               title:`ASK Organic`,
               url:`/ask-organic`,
-              imgUrl:'https://res.cloudinary.com/db3h7h0pa/image/upload/v1656699822/vedika-portfolio/IMG_20200928_131917_fisei6.jpg',
-              content: `I can also attest. @vitwit_ is one of the best dev teams in the space and we are so proud and grateful to work with them... Excited they are supporting Akash as well.`
-          },
-          {
-              id:5,
-              name:`Keychron`,
-              title:`Keychron`,
-              url:`/keychron`,
-              imgUrl:'https://res.cloudinary.com/db3h7h0pa/image/upload/v1656699822/vedika-portfolio/IMG_20200928_131917_fisei6.jpg',
-              content: `I can also attest. @vitwit_ is one of the best dev teams in the space and we are so proud and grateful to work with them... Excited they are supporting Akash as well.`
-          },
-          {
-              id:6,
-              name:`Amul Website Redesign`,
-              title:`Amul Website Redesign`,
-              url:`/amul-redesign`,
-              imgUrl:'https://res.cloudinary.com/db3h7h0pa/image/upload/v1656699822/vedika-portfolio/IMG_20200928_131917_fisei6.jpg',
-              content: `I can also attest. @vitwit_ is one of the best dev teams in the space and we are so proud and grateful to work with them... Excited they are supporting Akash as well.`
+              imgUrl:'../../../static/ask-organic.png',
           },
       ],
 
