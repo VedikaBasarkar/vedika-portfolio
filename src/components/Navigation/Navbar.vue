@@ -14,7 +14,7 @@
                             <div class="flex items-center font-light font-primary">
                                 <router-link to="/about" exact-active-class="text-primary"><p class="m-8 hover:text-primary font-primary">About</p></router-link>
                                 <!-- <router-link to="/work" exact-active-class="text-primary"><p class="m-8 hover:text-primary font-primary">Work</p></router-link> -->
-                                <router-link to="/contact" exact-active-class="text-primary"><p class="m-8 hover:text-primary font-primary">Contact</p></router-link>
+                                <!-- <router-link to="/contact" exact-active-class="text-primary"><p class="m-8 hover:text-primary font-primary">Contact</p></router-link> -->
                             </div>
                         </div>
                     </div>
@@ -39,7 +39,7 @@
                             <router-link to="/" exact-active-class="text-primary" class="px-2 py-1 text-darkPrimary font-semibold text-center  rounded navItem font-primary">Home</router-link>
                             <router-link to="/about" exact-active-class="text-primary" class="mt-1 block px-2 py-1 text-darkPrimary text-center font-semibold rounded navItem font-primary">About Us</router-link>
                             <!-- <router-link to="/work" exact-active-class="text-primary" class="mt-1 block px-2 py-1 text-darkPrimary text-center font-semibold rounded navItem font-primary">Work</router-link> -->
-                            <router-link to="/contact" exact-active-class="text-primary" class="mt-1 block px-2 py-1 text-darkPrimary text-center font-semibold rounded navItem font-primary">Contact</router-link>
+                            <!-- <router-link to="/contact" exact-active-class="text-primary" class="mt-1 block px-2 py-1 text-darkPrimary text-center font-semibold rounded navItem font-primary">Contact</router-link> -->
                         </div>
                     </transition>
                 </div>
