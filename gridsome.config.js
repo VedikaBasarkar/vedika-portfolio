@@ -9,7 +9,6 @@ module.exports = {
     siteDescription: "Vedika is a freelance developer and designer.",
     siteUrl: 'https://Vedika.design',
     titleTemplate: '%s',
-    icon: 'src/favicon.png',
 
     css: {
         loaderOptions: {
