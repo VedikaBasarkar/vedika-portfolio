@@ -9,7 +9,6 @@
     </div>
         <section>
             <div class="py-16 px-4 lg:container min-h-screen relative text-gray-300">
-                <Title>Contact Us</Title>
                 <div class="text-sm lg:text-lg font-thin"><g-link to="/">Home</g-link><span class="text-secondary"> / Contact Us</span></div>
                 <div class="flex flex-row-reverse flex-wrap justify-center">
                   <div class="w-full md:w-1/2">
@@ -33,14 +32,12 @@
 
 <script>
 import MainLayout from '../../layouts/Main'
-import Title from '../../components/Title/title.vue'
 import ContactForm from '../../components/Forms/contactForm.vue'
 
 export default {
     components:{
         MainLayout,
         ContactForm,
-        Title
     },
 }
 </script>

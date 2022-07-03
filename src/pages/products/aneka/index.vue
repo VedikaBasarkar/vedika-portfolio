@@ -8,11 +8,7 @@
         </div>
         <section>
             <div class="py-24 px-4 lg:container min-h-screen relative text-gray-300">
-              <Title class="flex flex-col md:flex-row flex-wrap">
-                <div>Aneka</div>
-                <div class="hidden md:block text-3xl mt-7 md:mx-4 stroke-1 tracking-wider">Block<br/>Explorer</div>
-                <div class="block md:hidden text-xl md:text-3xl mt-0 stroke-1 tracking-wider">Block Explorer</div>
-              </Title>
+              
               <div class="mt-2 text-sm md:text-lg font-thin"><g-link to="/">Home</g-link><g-link to="/products"> / Products</g-link><span class="text-secondary"> / Aneka</span></div>
               <div class="flex flex-col md:flex-row my-4 md:my-16">
                 <div class="w-full md:w-3/5">
@@ -118,10 +114,8 @@
 
 <script>
 import MainLayout from '../../../layouts/Main'
-import Title from '../../../components/Title/title.vue'
 export default {
     components:{
-        Title,
         MainLayout
     },
 }

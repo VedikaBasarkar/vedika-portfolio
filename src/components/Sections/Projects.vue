@@ -67,7 +67,7 @@ export default {
               name:`Yashraj Mukhate Studios`,
               title:`Yashraj Mukhate Studios`,
               url:`/yashraj-mukhate`,
-              imgUrl: 'https://res.cloudinary.com/db3h7h0pa/image/upload/v1656699830/vedika-portfolio/IMG_20201022_174839_uqfu2r.jpg',
+              imgUrl: 'https://res.cloudinary.com/db3h7h0pa/image/upload/v1656837560/vedika-portfolio/projects/black_gradient_bg_stdflu.jpg',
               content:`The @vitwit_  team has been rocking it and contributing to all layers of the stack: #tendermint, #cosmossdk, and #ibc. Mad props, and look forward to continuing to work with y'all!`
           },
           {
@@ -75,7 +75,7 @@ export default {
               name:`Static IoT Pvt Ltd`,
               title:`Static IoT PvtLtd`,
               url:`/static-iot`,
-              imgUrl:'https://res.cloudinary.com/db3h7h0pa/image/upload/v1656699822/vedika-portfolio/IMG_20200928_131917_fisei6.jpg',
+              imgUrl:'https://res.cloudinary.com/db3h7h0pa/image/upload/v1656837445/vedika-portfolio/projects/9_ucyyjy.jpg',
               content: `I can also attest. @vitwit_ is one of the best dev teams in the space and we are so proud and grateful to work with them... Excited they are supporting Akash as well.`
           },
           {
@@ -83,7 +83,7 @@ export default {
               name:`YS Architects`,
               title:`YS Architects`,
               url:`/ysa`,
-              imgUrl:'https://res.cloudinary.com/db3h7h0pa/image/upload/v1656699822/vedika-portfolio/IMG_20200928_131917_fisei6.jpg',
+              imgUrl:'https://res.cloudinary.com/db3h7h0pa/image/upload/v1656837698/vedika-portfolio/projects/front_uev1xo.jpg',
               content: `I can also attest. @vitwit_ is one of the best dev teams in the space and we are so proud and grateful to work with them... Excited they are supporting Akash as well.`
           },
           {

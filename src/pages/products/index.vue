@@ -8,7 +8,6 @@
         </div>
         <section>
             <div class="py-24 px-4 lg:container min-h-screen relative text-gray-300">
-                <Title>PRODUCTS</Title>
                 <div class=" text-lg font-thin"><g-link to="/">Home</g-link><span class="text-secondary"> / Products</span></div>
 
                 <!-- Aneka Block Explorer -->
@@ -51,11 +50,9 @@
 
 <script>
 import MainLayout from '../../layouts/Main'
-import Title from '../../components/Title/title.vue'
 export default {
     components:{
         MainLayout,
-        Title
     },
 }
 </script>

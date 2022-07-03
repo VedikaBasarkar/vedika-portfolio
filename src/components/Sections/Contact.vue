@@ -112,12 +112,8 @@
   </div>
 </template>
 <script>
-import PartnersCrad from "../Cards/PartnersCrad.vue";
-import GradientHeading from "../Title/GradientTitle.vue";
 export default {
   components: {
-    GradientHeading,
-    PartnersCrad,
   },
   data() {
     return {
