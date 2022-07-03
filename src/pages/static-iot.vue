@@ -1,9 +1,9 @@
 <template>
     <MainLayout class="">
-        <div class="md:px-20">
+        <div class="px-6 md:px-20">
             <img class="w-full" src="https://res.cloudinary.com/db3h7h0pa/image/upload/v1656837445/vedika-portfolio/projects/9_ucyyjy.jpg" />
-            <div class="md:text-4xl text-primary my-4 font-poppins font-bold">Static IOT</div>
-            <div class="text-xl font-poppins font-light md:w-3/4">
+            <div class="text-xl md:text-4xl text-dark my-4 font-primary font-bold">Static IOT</div>
+            <div class="text-sm md:text-xl font-poppins font-light md:w-3/4 pb-5">
                 Static IoT is IoT product based automation organisation which is a startup from Aurangabad, Maharashtra. Static IoT mostly works commercial and home automation of almost all devices, like lights, fans, AC, and many more. You can handle these devices from mobile application, uni-remote or smart devices like Alexa, Google Assistant.
                 <br />
                 They have different categories for automating different devices and many features are available.
