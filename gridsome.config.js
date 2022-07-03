@@ -4,9 +4,9 @@ const postcssPlugins = [
     tailwind(),
 ]
 module.exports = {
-    siteName: 'Vitwit',
-    siteDescription: "VITWIT IS A ONE-STOP SOLUTION TO YOUR BLOCKCHAIN REQUIREMENTS.",
-    siteUrl: 'https://vitwit.com',
+    siteName: 'Vedika',
+    siteDescription: "Vedika is a freelance developer and designer.",
+    siteUrl: 'https://Vedika.design',
     titleTemplate: '%s',
     icon: 'src/favicon.png',
 

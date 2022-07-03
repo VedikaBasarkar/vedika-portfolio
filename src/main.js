@@ -33,7 +33,7 @@ export default function(Vue, { router, head, isClient, appOptions }) {
         json: {
             "@context": "http://www.schema.org",
             "@type": "Organization",
-            "name": "Vitwit",
+            "name": "Vedika",
             "url": "",
             "logo": "",
             "description": "",
@@ -48,16 +48,12 @@ export default function(Vue, { router, head, isClient, appOptions }) {
     })
     head.link.push()
 
-    let copyRightNotice = `\u00a9 www.vitwit.com, ${ new Date().getFullYear() }. All rights reserved`;
+    let copyRightNotice = `\u00a9 www.vedika.design, ${ new Date().getFullYear() }. All rights reserved`;
 
-    head.meta.push({
-        key: "keywords",
-        name: "keywords",
-        content: "vitwit, vitwit hyderabad, hyderabad blockchain company, cryptocurrency, crypto, sdk blockchain development, blockchain research, artha dashboard, cosmos sdk, crypto tools, monitoring tools, alert tools, hyderabad cryptocurrency, crypto startup in india indian, startups ",
-    }, {
+    head.meta.push( {
         key: "description",
         name: "description",
-        content: "VITWIT IS A ONE-STOP SOLUTION TO YOUR BLOCKCHAIN REQUIREMENTS.",
+        content: "Vedika is a freelance developer and designer",
     }, {
         name: "theme-color",
         color: "#191919",
@@ -77,30 +73,30 @@ export default function(Vue, { router, head, isClient, appOptions }) {
     }, {
         key: "og:description",
         property: "og:description",
-        content: "VITWIT IS A ONE-STOP SOLUTION TO YOUR BLOCKCHAIN REQUIREMENTS.",
+        content: "Vedika is a freelance developer and designer",
     }, {
         key: "og:image",
         property: "og:image",
         content: "",
     }, {
         property: "og:site_name",
-        content: "Vitwit",
+        content: "Vedika",
     }, {
         key: "og:image:secure_url",
         property: "og:image:secure_url",
         content: "",
     }, {
         property: "og:url",
-        content: "https://vitwit.com",
+        content: "https://vedika.design",
     }, {
         name: "twitter:card",
         content: "summary",
     }, {
         name: "twitter:description",
-        content: "VITWIT IS A ONE-STOP SOLUTION TO YOUR BLOCKCHAIN REQUIREMENTS.",
+        content: "Vedika is freelance developer and designer.",
     }, {
         name: "twitter:title",
-        content: "Vitwit",
+        content: "Vedika",
     }, {
         name: "twitter:site",
         content: "@",
