@@ -1,7 +1,7 @@
 <template>
     <MainLayout class="">
         <div class="px-6 md:px-20">
-            <img class="w-full" src="https://res.cloudinary.com/db3h7h0pa/image/upload/v1656904831/vedika-portfolio/projects/ask-organic_gw1zrk.png" />
+            <a href="https://www.askorganicfood.com/" target="_blank"><img class="w-full" src="https://res.cloudinary.com/db3h7h0pa/image/upload/v1656904831/vedika-portfolio/projects/ask-organic_gw1zrk.png" /></a>
             <div class="text-xl md:text-4xl text-dark my-4 font-primary font-bold">ASK Organic</div>
             <div class="text-sm md:text-xl font-poppins font-light md:w-3/4 pb-5">
                 Arogya Shakti Kendra(ASK) Organic is a brand of organic foodstuff that has been in the business for decades. 
@@ -20,9 +20,9 @@
                 whole brand, which makes the product more appealing to the customer, as well as instills a sense of trust and loyalty 
                 towards the whole brand.
             </div>  
-            <a class="font-poppins text-primary" href="https://www.figma.com/file/MqU6Qv6c18FJdC9iexCKUL/ASK-Organic?node-id=198%3A2">Figma Board Link</a>
-            <img src="https://res.cloudinary.com/db3h7h0pa/image/upload/v1656841422/vedika-portfolio/projects/yashraj-mukhate/Frame_54_tmz7rv.jpg" />
-            <img src="https://res.cloudinary.com/db3h7h0pa/image/upload/v1656841658/vedika-portfolio/projects/yashraj-mukhate/Frame_55_akzuat.jpg" />
+            <a class="font-poppins text-primary" href="https://www.figma.com/file/MqU6Qv6c18FJdC9iexCKUL/ASK-Organic?node-id=198%3A2" target="_blank">Figma Board Link</a>
+            <!-- <img src="https://res.cloudinary.com/db3h7h0pa/image/upload/v1656841422/vedika-portfolio/projects/yashraj-mukhate/Frame_54_tmz7rv.jpg" />
+            <img src="https://res.cloudinary.com/db3h7h0pa/image/upload/v1656841658/vedika-portfolio/projects/yashraj-mukhate/Frame_55_akzuat.jpg" /> -->
         </div>
     </MainLayout>
 </template>

@@ -78,13 +78,14 @@
         <div class="font-poppins font-medium pb-4">Frontend Developer</div>
         <div class="font-poppins font-light">
             FleetConnect is a fleet management system that provides real-time visibility into all critical information like location, speed, driver’s behavior, vehicle status with live tracking and much more using different types of sensors.<br />
-            DevelopeddifferentcomponentsusingReactJs+Redux,HTML5,CSS3andBootstrap.<br />
+            Developed different components using ReactJs+Redux, HTML5, CSS3 and Bootstrap.<br />
             Developed different modules like reports generation and analytics, live tracking of vehicles, and
             dashboard. Completed API integration for all these modules.<br />
             Created data models, when backend architecture was getting revamped.<br />
             Developed company’s official website using ReactJs, Bootstrap, NextJs, HTML5, and CSS3.
         </div>
-    </div>
+    </div><br />
+    <a href="https://drive.google.com/file/d/13273e-CKg2meFLL0-vBeNV7jQ7jl5XIi/view?usp=sharing" class="mx-4 md:mx-20 bg-dark text-light font-poppins px-4 py-2" target="_blank">Check My Resume</a>
 </MainLayout>
 </template>
 

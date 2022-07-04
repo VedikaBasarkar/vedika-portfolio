@@ -1,7 +1,7 @@
 <template>
     <MainLayout class="">
         <div class="px-6 md:px-20">
-            <img class="w-full" src="https://res.cloudinary.com/binarycode/image/upload/v1629889127/Nomads/Landing%20Page/nomads_lander_resized_ortigan-02_fnzom6_min_rfcobj.png" />
+            <a href="https://www.nomadspaces.in/" target="_blank"><img class="w-full" src="https://res.cloudinary.com/binarycode/image/upload/v1629889127/Nomads/Landing%20Page/nomads_lander_resized_ortigan-02_fnzom6_min_rfcobj.png" /></a>
             <div class="text-xl md:text-4xl text-dark my-4 font-primary font-bold">Nomadspaces</div>
             <div class="text-sm md:text-xl font-poppins font-light md:w-3/4 pb-5">
                 Nomadspaces is an Indian startup, based in Bangalore, that provides office spaces, virtual offices, 
