@@ -20,7 +20,7 @@
   </div>
 
   <!-- Branding -->
-  <div class="text-4xl md:px-20 md:pt-10">Branding and Logo Designing</div>
+  <div class="text-2xl md:text-4xl px-6 md:px-20 md:pt-10">Branding and Logo Designing</div>
   <div class="flex flex-row flex-wrap md:px-10">
     <div 
       v-for="(p, index) in projects"

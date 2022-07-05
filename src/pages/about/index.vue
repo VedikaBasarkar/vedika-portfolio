@@ -14,7 +14,8 @@
         <div class="font-poppins font-light">
             Working with Mom Made Organic for branding and logo design.<br />
             Working with flotempo for UI UX designing.<br />
-            Working with Nomadspaces for designing social media posts.
+            Working with Nomadspaces for designing social media posts.<br />
+            Working with Static IoT Pvt Ltd for branding, logo designing and website development.
         </div>
 
         <!-- Ortigan technologies -->
@@ -39,7 +40,7 @@
         </div>
 
         <!-- Freelancing -->
-        <div class="text-2xl py-2 md:pb-2 md:pt-20">Freelancing</div>
+        <div class="text-2xl py-2 md:pb-2 md:pt-10">Freelancing</div>
         <div class="font-poppins font-light pb-4">(May - August 2020)</div>
         <div class="font-poppins font-light">
             Worked with Yashraj Mukhate for Logo Designing.<br />

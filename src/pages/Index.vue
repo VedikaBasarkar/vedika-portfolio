@@ -4,12 +4,6 @@
       <section class="section" id="products">
         <Projects/>
       </section>
-      <!-- <section class="section" id="about">
-        <About/>
-      </section> -->
-      <!-- <section class="section" id="blogs">
-        <Contact/>
-      </section> -->
       </MainLayout>
   </div>
 </template>
