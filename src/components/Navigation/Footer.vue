@@ -18,10 +18,10 @@
           <div class="w-full md:w-1/4">
             <div class="font-primary text-3xl my-6 mr-8">Follow</div>
             <div class="flex flex-row items-center">
-              <a href="https://www.linkedin.com/in/vedbasarkar/"><img class="mr-8" src="https://res.cloudinary.com/db3h7h0pa/image/upload/v1656782429/vedika-portfolio/icons/linkedin_ewffh3.svg" /></a>
-              <a href="https://www.instagram.com/vedzzb/"><img class="mr-8" src="https://res.cloudinary.com/db3h7h0pa/image/upload/v1656782419/vedika-portfolio/icons/instagram_eamklr.svg" /></a>
-              <a href="https://github.com/VedikaBasarkar"><img class="mr-8" src="https://res.cloudinary.com/db3h7h0pa/image/upload/v1656782389/vedika-portfolio/icons/github_qzaihp.svg" /></a>
-              <a href="https://www.behance.net/vedbasarkar"><img class="mr-8 h-7" src="https://res.cloudinary.com/db3h7h0pa/image/upload/v1656782976/vedika-portfolio/icons/behance_bbirt0.svg" /></a>
+              <a href="https://www.linkedin.com/in/vedbasarkar/" target="_blank"><img class="mr-8" src="https://res.cloudinary.com/db3h7h0pa/image/upload/v1656782429/vedika-portfolio/icons/linkedin_ewffh3.svg" /></a>
+              <a href="https://www.instagram.com/vedzzb/" target="_blank"><img class="mr-8" src="https://res.cloudinary.com/db3h7h0pa/image/upload/v1656782419/vedika-portfolio/icons/instagram_eamklr.svg" /></a>
+              <a href="https://github.com/VedikaBasarkar" target="_blank"><img class="mr-8" src="https://res.cloudinary.com/db3h7h0pa/image/upload/v1656782389/vedika-portfolio/icons/github_qzaihp.svg" /></a>
+              <a href="https://www.behance.net/vedbasarkar" target="_blank"><img class="mr-8 h-7" src="https://res.cloudinary.com/db3h7h0pa/image/upload/v1656782976/vedika-portfolio/icons/behance_bbirt0.svg" /></a>
             </div>
           </div>
         </div>
