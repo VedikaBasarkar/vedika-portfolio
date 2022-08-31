@@ -1,7 +1,6 @@
 <template>
 <div>
   <!-- Ui Ux Project -->
-
   <div class="text-2xl md:text-4xl px-6 md:px-20 md:pt-10">Web Designing and Developement</div>
   <div class="flex flex-row flex-wrap md:px-10">
     <div 
@@ -18,47 +17,10 @@
       </router-link>
     </div>
   </div>
-
-  <!-- Branding -->
-  <div class="text-2xl md:text-4xl px-6 md:px-20 md:pt-10">Branding and Logo Designing</div>
-  <div class="flex flex-row flex-wrap md:px-10">
-    <div 
-      v-for="(p, index) in projects"
-      :key="index"
-      class="p-4 md:p-10 w-full md:w-1/2">
-      <router-link :to="p.url">
-      <div class="hover:bg-primaryDark">
-        <img class="hover:bg-primaryDark z-0" :src="p.imgUrl" />
-      </div>
-      <div class="text-xl pt-4 leading-7">
-        {{ p.name }}
-      </div>
-      </router-link>
-    </div>
-  </div>
-
-<!-- Hobby Work -->
-  <!-- <div class="text-4xl md:px-20 md:pt-10">Hobby Work</div>
-  <div class="flex flex-row flex-wrap md:px-10">
-    <div 
-      v-for="(h, index) in hobbies"
-      :key="index"
-      class="p-4 md:p-10 w-full md:w-1/2">
-      <router-link :to="h.url">
-      <div class="hover:bg-primaryDark">
-        <img class="hover:bg-primaryDark z-0" :src="h.imgUrl" />
-      </div>
-      <div class="text-xl pt-4 leading-7">
-        {{ h.name }}
-      </div>
-      </router-link>
-    </div>
-  </div> -->
 </div>
 </template>
 
 <script>
-import ASKimage from '../../../static/ask-organic.png'
 export default {
   data() {
     return {
