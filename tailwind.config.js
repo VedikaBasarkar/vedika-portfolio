@@ -87,8 +87,7 @@ module.exports = {
                 greyLight: '#C1CACC'
             },
             fontFamily: {
-                primary: ['Playfair Display', 'serif'],
-                poppins: ['Poppins', 'sans-serif']
+                primary: ['Poppins', 'sans-serif']
             },
             spacing: {
                 '78': '20rem',

@@ -1,5 +1,4 @@
 const tailwind = require('tailwindcss')
-// var VueViewer = require('VueViewer')
 const purgecss = require('@fullhuman/postcss-purgecss')
 const postcssPlugins = [
     tailwind(),

@@ -4,17 +4,17 @@
         <nav class="top-0 w-full mb-6 z-10" id="mainNav" style="transition-duration: 0.5s;z-index:9999999;">
             <div class="navBg h-16"></div>
             <div class="bg-white top-0 absolute w-full z-40">
-                <div class="flex flex-row justify-between h-16 px-4 md:my-6">
+                <div class="flex flex-row justify-between h-16 px-10 md:my-6">
                     <g-link to="/" class="md:ml-10">
-                      <p class="hover:text-primary font-primary text-3xl my-2 mr-8"> Vedika</p>
-                        <!-- <g-image alt="Shree Associates" src="https://res.cloudinary.com/db3h7h0pa/image/upload/v1605591447/ShreeAssociatesSolar/topnav-logo.svg" :class='scrollPx > 150 ? "h-16 bg-white p-2 -mt-10 ml-10" : "h-24 px-2 -mt-4" ' style="transition-duration: 0.5s;"></g-image> -->
+                      <p class="font-primary text-3xl my-2 mr-8"> Vedika</p>
                     </g-link>
-                    <div class="w-full flex flex-row items-center mr-10">
+                    <div class="w-full flex flex-row items-center justify-end mr-10">
                         <div class="hidden md:block ml-4">
                             <div class="flex items-center font-light font-primary">
                                 <router-link to="/about" exact-active-class="text-primary"><p class="m-8 hover:text-primary font-primary">About</p></router-link>
-                                <!-- <router-link to="/work" exact-active-class="text-primary"><p class="m-8 hover:text-primary font-primary">Work</p></router-link> -->
-                                <!-- <router-link to="/contact" exact-active-class="text-primary"><p class="m-8 hover:text-primary font-primary">Contact</p></router-link> -->
+                                <!-- <router-link to="/projects" exact-active-class="text-primary"><p class="m-8 hover:text-primary font-primary">Projects</p></router-link>
+                                <router-link to="/hobby" exact-active-class="text-primary"><p class="m-8 hover:text-primary font-primary">Hobby</p></router-link>
+                                <router-link to="/contact" exact-active-class="text-primary"><p class="m-8 hover:text-primary font-primary">Contact</p></router-link> -->
                             </div>
                         </div>
                     </div>
@@ -38,8 +38,9 @@
                         <div class="flex flex-col justify-center" v-show="showItems" @click="closeNav()">
                             <router-link to="/" exact-active-class="text-primary" class="px-2 py-1 text-darkPrimary font-semibold text-center  rounded navItem font-primary">Home</router-link>
                             <router-link to="/about" exact-active-class="text-primary" class="mt-1 block px-2 py-1 text-darkPrimary text-center font-semibold rounded navItem font-primary">About Us</router-link>
-                            <!-- <router-link to="/work" exact-active-class="text-primary" class="mt-1 block px-2 py-1 text-darkPrimary text-center font-semibold rounded navItem font-primary">Work</router-link> -->
-                            <!-- <router-link to="/contact" exact-active-class="text-primary" class="mt-1 block px-2 py-1 text-darkPrimary text-center font-semibold rounded navItem font-primary">Contact</router-link> -->
+                            <!-- <router-link to="/project" exact-active-class="text-primary" class="mt-1 block px-2 py-1 text-darkPrimary text-center font-semibold rounded navItem font-primary">Projects</router-link>
+                            <router-link to="/hobby" exact-active-class="text-primary" class="mt-1 block px-2 py-1 text-darkPrimary text-center font-semibold rounded navItem font-primary">Hobby</router-link>
+                            <router-link to="/contact" exact-active-class="text-primary" class="mt-1 block px-2 py-1 text-darkPrimary text-center font-semibold rounded navItem font-primary">Contact</router-link> -->
                         </div>
                     </transition>
                 </div>

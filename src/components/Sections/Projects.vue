@@ -17,6 +17,34 @@
       </router-link>
     </div>
   </div>
+
+  <!-- Hobbies  -->
+  <div class="text-2xl md:text-4xl px-6 md:px-20 md:pt-10">Photography and Hobby</div>
+  <div class="flex flex-row flex-wrap md:px-10">
+    <div 
+      class="p-4 md:p-10 w-full md:w-1/2">
+      <router-link to="/photography">
+      <div class="hover:bg-primaryDark">
+        <img class="hover:bg-primaryDark z-0" src="https://res.cloudinary.com/db3h7h0pa/image/upload/v1650085785/website/photography/IMG_0039_bsvozt.jpg" />
+      </div>
+      <div class="text-xl pt-4 leading-7">
+        Photography
+      </div>
+      </router-link>
+    </div>
+
+    <div 
+      class="p-4 md:p-10 w-full md:w-1/2">
+      <router-link to="/hobbies">
+      <div class="hover:bg-primaryDark">
+        <img class="hover:bg-primaryDark z-0" src="https://res.cloudinary.com/db3h7h0pa/image/upload/v1650085920/website/photography/IMG_0967_dha9oj.jpg" />
+      </div>
+      <div class="text-xl pt-4 leading-7">
+        Hobbies and Artworks
+      </div>
+      </router-link>
+    </div>
+  </div>
 </div>
 </template>
 
@@ -54,31 +82,31 @@ export default {
       webProjects: [
           {
               id:1,
-              name:`Vitwit`,
-              title:`Vitwit`,
-              url:`/vitwit`,
-              imgUrl: 'https://res.cloudinary.com/db3h7h0pa/image/upload/v1656904994/vedika-portfolio/projects/Screenshot_2022-07-04_at_8.52.52_AM_re1c2h.png',
+              name:`Ripple`,
+              title:`Ripple`,
+              url:`/ripple`,
+              imgUrl: 'https://res.cloudinary.com/db3h7h0pa/image/upload/v1662095526/website/ripple/1_jix322.jpg',
           },
           {
               id:2,
-              name:`Nomadspaces`,
-              title:`Nomadspaces`,
-              url:`/nomadspaces`,
-              imgUrl:'https://res.cloudinary.com/db3h7h0pa/image/upload/v1656905314/vedika-portfolio/projects/Screenshot_2022-07-04_at_8.58.17_AM_cbxwsh.png',
+              name:`Fleet Management`,
+              title:`Fleet Management`,
+              url:`/fleet-management`,
+              imgUrl:'https://res.cloudinary.com/db3h7h0pa/image/upload/v1662097526/website/fleet-management/Slide_16_9_-_3_negke1.jpg',
           },
           {
               id:3,
               name:`JNEC`,
               title:`JNEC`,
               url:`/jnec`,
-              imgUrl:'https://res.cloudinary.com/db3h7h0pa/image/upload/v1656904814/vedika-portfolio/projects/jnec_e5hyoq.png',
+              imgUrl:'https://res.cloudinary.com/db3h7h0pa/image/upload/v1662097375/website/jnec/Screenshot_2022-09-02_at_11.11.44_AM_geacs8.png',
           },
           {
               id:4,
-              name:`ASK Organic`,
-              title:`ASK Organic`,
-              url:`/ask-organic`,
-              imgUrl:'https://res.cloudinary.com/db3h7h0pa/image/upload/v1656904831/vedika-portfolio/projects/ask-organic_gw1zrk.png',
+              name:`Keychron`,
+              title:`Keychron`,
+              url:`/keychron`,
+              imgUrl:'https://res.cloudinary.com/db3h7h0pa/image/upload/v1662097175/website/keychron/1_tnszxs.jpg',
           },
       ],
 
