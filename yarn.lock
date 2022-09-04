@@ -7,6 +7,11 @@
   "resolved" "https://registry.npmjs.org/@animxyz/core/-/core-0.5.0.tgz"
   "version" "0.5.0"
 
+"@animxyz/core@^0.6.6":
+  "integrity" "sha512-NtAA/G0Gq3hzAiL6yuE/4U8IgHMPUl3MxbWUbhO443T9UCsf9rBY94P5aK79Zd+/529FeoNdDphIOcOZLsI2sA=="
+  "resolved" "https://registry.npmjs.org/@animxyz/core/-/core-0.6.6.tgz"
+  "version" "0.6.6"
+
 "@animxyz/vue@^0.5.0":
   "integrity" "sha512-eOmrWmnE3kMRLL2x5MYs0LgO0yGdzw0tUj3tNUSWGyc6VQagbpp585vhy6SwgeNib2g23oFNp++DPBghaSWqNg=="
   "resolved" "https://registry.npmjs.org/@animxyz/vue/-/vue-0.5.0.tgz"

@@ -1,6 +1,7 @@
 <template>
   <div class="bg-white relative overflow-hidden font-primary">
-      <Navbar/>
+      <!-- <Navbar/> -->
+      <ToggleNav />
         <transition name="fade" enter-active-class="animate__animated animate__fadeIn" leave-active-class="animate__animated animate__fadeOut" mode="out-in" appear>
           <main>
             <slot></slot>
@@ -24,12 +25,14 @@
 </template>
 
 <script>
+import ToggleNav from '~/components/Navigation/ToggleNav.vue'
 import Navbar from '~/components/Navigation/Navbar.vue'
 import Footer from '~/components/Navigation/Footer.vue'
 export default {
     components:{
         Navbar,
         Footer,
+        ToggleNav,
     },
     data() {
       return{
