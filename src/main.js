@@ -3,6 +3,8 @@ import Vuex from 'vuex'
 require('~/main.css')
 import Vuesax from 'vuesax'
 import 'vuesax/dist/vuesax.css'
+import 'viewerjs/dist/viewer.css'
+import VueViewer from 'v-viewer'
 
 import { HalfCircleSpinner } from 'epic-spinners';
 import { extend } from "vee-validate";
@@ -126,4 +128,5 @@ export default function(Vue, { router, head, isClient, appOptions }) {
     Vue.component('half-circle-spinner', HalfCircleSpinner)
     Vue.component('ValidationProvider', ValidationProvider)
     Vue.component('ValidationObserver', ValidationObserver)
+    Vue.use(VueViewer)
 }

@@ -16,7 +16,9 @@
             <!-- <img src="https://res.cloudinary.com/db3h7h0pa/image/upload/v1662381063/website/jnec/a12_z3vteh.jpg" /> -->
             <img src="https://res.cloudinary.com/db3h7h0pa/image/upload/v1662381065/website/jnec/a13_fnlns6.jpg" />
             <!-- <img src="https://res.cloudinary.com/db3h7h0pa/image/upload/v1662381065/website/jnec/a14_ozr3fg.jpg" /> -->
-            <div class="flex flex-row justify-center w-full"><a class="font-poppins text-black underline hover:text-primary text-3xl justify-center" href="https://www.figma.com/file/XDunxsAZR48EzkkSi3GTOn/JNEC?node-id=202%3A2" target="_blank">New Website Link</a></div>
+            <div class="flex flex-row justify-center w-full">
+              <g-link class="font-poppins redirectLink text-xl justify-center" to="https://jnec-website.ortigan.dev/" target="_blank">New Website Link</g-link>
+            </div>
             <img src="https://res.cloudinary.com/db3h7h0pa/image/upload/v1662381065/website/jnec/a15_bi4mko.jpg" />
 
             <g-link class="font-poppins text-2xl my-20" to="/">&#60;&#60; Back to home page</g-link>
@@ -32,3 +34,13 @@ export default {
   },
 }
 </script>
+<style scoped>
+.redirectLink{
+  margin:10px 0px ;
+  padding: 10px 20px;
+  border-radius: 20px;
+  box-shadow: 4px 4px 10px #af734a21;
+  background-color: #fffaf1 !important;
+  color: #af734a;
+}
+</style>
