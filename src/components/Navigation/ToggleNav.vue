@@ -4,8 +4,8 @@
         <a href="javascript:void(0)" class="closebtn" @click="closeNav()">&times;</a>
         <div class="overlay-content text-xl">
             <g-link to="/about">About</g-link>
-            <g-link to="/projects">Projects</g-link>
-            <g-link to="/art-and-hobby">Art and hobby</g-link>
+            <!-- <g-link to="/projects">Projects</g-link> -->
+            <g-link to="/art-and-hobby">Art and Hobby</g-link>
             <g-link to="/contact">Contact</g-link>
         </div>
         </div>
