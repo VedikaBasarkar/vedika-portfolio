@@ -14,7 +14,7 @@
             <div class="font-primary text-3xl my-6 mr-8">Contact</div>
             <div class="font-poppins leading-5 my-2">basarkarvedika@gmail.com</div>
             <div class="font-poppins leading-5 my-2">+91 98 3445 6702</div>
-            <div class="font-poppins leading-5 my-2"> <a href="https://vedikabasarkar30.wixsite.com/photography-work" target="_blank">vedikabasarkar30.wixsite.com/photography-work</a></div>
+            <!-- <div class="font-poppins leading-5 my-2"> <a href="https://vedikabasarkar30.wixsite.com/photography-work" target="_blank">vedikabasarkar30.wixsite.com/photography-work</a></div> -->
           </div>
           <div class="w-full md:w-1/4">
             <div class="font-primary text-3xl my-6 mr-8">Follow</div>

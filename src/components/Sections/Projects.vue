@@ -73,7 +73,7 @@ export default {
               name:`JNEC`,
               title:`JNEC`,
               url:`/jnec`,
-              imgUrl:'https://res.cloudinary.com/db3h7h0pa/image/upload/v1662097375/website/jnec/Screenshot_2022-09-02_at_11.11.44_AM_geacs8.png',
+              imgUrl:'https://res.cloudinary.com/db3h7h0pa/image/upload/v1662381061/website/jnec/a1_jynfak.jpg',
           },
           {
               id:4,
