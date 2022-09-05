@@ -12,8 +12,8 @@
             <img src="https://res.cloudinary.com/db3h7h0pa/image/upload/v1662381064/website/jnec/a8_ngvz7e.jpg" />
             <img src="https://res.cloudinary.com/db3h7h0pa/image/upload/v1662381064/website/jnec/a9_z96hyl.jpg" />
             <img src="https://res.cloudinary.com/db3h7h0pa/image/upload/v1662381065/website/jnec/a10_w2g3sl.jpg" />
-            <!-- <img src="https://res.cloudinary.com/db3h7h0pa/image/upload/v1662381064/website/jnec/a11_gcm5dn.jpg" /> -->
-            <img src="https://res.cloudinary.com/db3h7h0pa/image/upload/v1662381063/website/jnec/a12_z3vteh.jpg" />
+            <img src="https://res.cloudinary.com/db3h7h0pa/image/upload/v1662381064/website/jnec/a11_gcm5dn.jpg" />
+            <!-- <img src="https://res.cloudinary.com/db3h7h0pa/image/upload/v1662381063/website/jnec/a12_z3vteh.jpg" /> -->
             <img src="https://res.cloudinary.com/db3h7h0pa/image/upload/v1662381065/website/jnec/a13_fnlns6.jpg" />
             <!-- <img src="https://res.cloudinary.com/db3h7h0pa/image/upload/v1662381065/website/jnec/a14_ozr3fg.jpg" /> -->
             <div class="flex flex-row justify-center w-full"><a class="font-poppins text-black underline hover:text-primary text-3xl justify-center" href="https://www.figma.com/file/XDunxsAZR48EzkkSi3GTOn/JNEC?node-id=202%3A2" target="_blank">New Website Link</a></div>
