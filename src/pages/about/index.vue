@@ -3,8 +3,8 @@
     <div class="px-6 md:px-20  md:w-3/4">
         <div class="text-2xl md:text-4xl py-6 md:pb-6 md:pt-20">Vedika Rajiv Basarkar</div>
         <div class="font-poppins font-light">
-            I’m an experienced UI/UX Designer and Developer. Expanding knowledge of emerging web technologies 
-            and skills of Adobe XD, Figma & User Experience Design (UED). I’m a person with a creative vision, 
+            I’m an experienced UI/UX Designer and Developer. <br/> Now persuing Masters in Designing in Electronic Product Designing from IIT Guwahati, 
+            Expanding knowledge of designing skills of Adobe XD, Figma & User Experience Design. I’m a person with a creative vision, 
             innovative ideas, obsessed with aesthetics, and a problem-solving attitude.
         </div>
         <hr class="md:mt-10" />
@@ -86,7 +86,7 @@
             Developed company’s official website using ReactJs, Bootstrap, NextJs, HTML5, and CSS3.
         </div>
     </div><br />
-    <a href="https://drive.google.com/file/d/13273e-CKg2meFLL0-vBeNV7jQ7jl5XIi/view?usp=sharing" class="mx-4 md:mx-20 bg-dark text-light font-poppins px-4 py-2" target="_blank">Check My Resume</a>
+    <a href="https://drive.google.com/file/d/1Jn_-bnX84aW0yahEzjMpzWzJNp-7zamL/view?usp=sharing" class="mx-4 md:mx-20 bg-dark text-light font-poppins px-4 py-2" target="_blank">Check My Resume</a>
 </MainLayout>
 </template>
 
