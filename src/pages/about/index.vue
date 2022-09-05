@@ -9,14 +9,14 @@
         </div>
         <hr class="md:mt-10" />
         <!-- Freelancing -->
-        <div class="text-2xl py-2 md:pb-2 md:pt-10">Freelancing</div>
-        <div class="font-poppins font-light pb-4">(May 2022 - present)</div>
+        <!-- <div class="text-2xl py-2 md:pb-2 md:pt-10">Freelancing</div>
+        <div class="font-poppins font-light pb-4">(May 2022 - July 2022)</div>
         <div class="font-poppins font-light">
             Working with Mom Made Organic for branding and logo design.<br />
             Working with flotempo for UI UX designing.<br />
             Working with Nomadspaces for designing social media posts.<br />
             Working with Static IoT Pvt Ltd for branding, logo designing and website development.
-        </div>
+        </div> -->
 
         <!-- Ortigan technologies -->
         <div class="text-2xl py-2 md:pb-2 md:pt-10">Ortigan Technologies</div>

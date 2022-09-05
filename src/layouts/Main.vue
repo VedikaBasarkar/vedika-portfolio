@@ -17,7 +17,7 @@
           @click="scrollToTop()"
           class=" flex justify-center items-center w-10 h-10 rounded"
         >
-        <g-image src="https://res.cloudinary.com/vitwit-technologies/image/upload/v1639296677/Vitwit%20Website/Global_utility_icon/7_gototop_icon_dormant_vitwit_ortigan_vbrvpf.svg"></g-image>
+        <g-image src="https://res.cloudinary.com/db3h7h0pa/image/upload/v1662382546/website/Vector_cmh7kq.svg"></g-image>
         </button>
         </div>
       <Footer/>
@@ -59,6 +59,6 @@ export default {
 @import "https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css";
 .scrollToTopBlurBg {
   backdrop-filter: saturate(180%) blur(6px);
-  background-color: rgba(73, 72, 72, 0.48);
+  background-color: rgba(187, 187, 187, 0.48);
 }
 </style>
