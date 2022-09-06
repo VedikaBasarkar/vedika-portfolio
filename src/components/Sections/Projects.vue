@@ -8,8 +8,8 @@
       :key="index"
       class="p-4 md:p-10 w-full md:w-1/2">
       <router-link :to="w.url">
-      <div class="hover:bg-primaryDark">
-        <img class="hover:bg-primaryDark z-0" :src="w.imgUrl" />
+      <div class="rounded-lg">
+        <img class="rounded-3xl z-0 shadow-md hover:shadow-none" :src="w.imgUrl" />
       </div>
       <div class="text-xl pt-4 leading-7">
         {{ w.name }}
@@ -17,15 +17,17 @@
       </router-link>
     </div>
   </div>
-
+  <div class="md:mx-20 my-2 md:my-10">
+    <hr />
+  </div>
   <!-- Hobbies  -->
-  <div class="text-2xl md:text-4xl px-6 md:px-20 md:pt-10">Photography and Hobby</div>
+  <div class="text-2xl md:text-4xl px-6 md:px-20 md:pt-10 font-extralight">Photography and Hobby</div>
   <div class="flex flex-row flex-wrap md:px-10">
     <div 
       class="p-4 md:p-10 w-full md:w-1/2">
       <router-link to="/photography">
-      <div class="hover:bg-primaryDark">
-        <img class="hover:bg-primaryDark z-0" src="https://res.cloudinary.com/db3h7h0pa/image/upload/v1650085785/website/photography/IMG_0039_bsvozt.jpg" />
+      <div class="">
+        <img class="rounded-3xl z-0 shadow-md hover:shadow-none" src="https://res.cloudinary.com/db3h7h0pa/image/upload/v1650085785/website/photography/IMG_0039_bsvozt.jpg" />
       </div>
       <div class="text-xl pt-4 leading-7">
         Photography
@@ -36,8 +38,8 @@
     <div 
       class="p-4 md:p-10 w-full md:w-1/2">
       <router-link to="/hobby">
-      <div class="hover:bg-primaryDark">
-        <img class="hover:bg-primaryDark z-0" src="https://res.cloudinary.com/db3h7h0pa/image/upload/v1650085920/website/photography/IMG_0967_dha9oj.jpg" />
+      <div class="">
+        <img class="rounded-3xl z-0 shadow-md hover:shadow-none0" src="https://res.cloudinary.com/db3h7h0pa/image/upload/v1650085920/website/photography/IMG_0967_dha9oj.jpg" />
       </div>
       <div class="text-xl pt-4 leading-7">
         Hobbies and Artworks

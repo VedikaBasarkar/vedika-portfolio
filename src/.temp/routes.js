@@ -1,6 +1,6 @@
 const c1 = () => import(/* webpackChunkName: "page--src--pages--ripple-vue" */ "/Users/vedikabasarkar/Documents/vedika-portfolio/src/pages/ripple.vue")
 const c2 = () => import(/* webpackChunkName: "page--src--pages--photography-vue" */ "/Users/vedikabasarkar/Documents/vedika-portfolio/src/pages/photography.vue")
-const c3 = () => import(/* webpackChunkName: "page--src--pages--keychrons-vue" */ "/Users/vedikabasarkar/Documents/vedika-portfolio/src/pages/keychrons.vue")
+const c3 = () => import(/* webpackChunkName: "page--src--pages--keychron-vue" */ "/Users/vedikabasarkar/Documents/vedika-portfolio/src/pages/keychron.vue")
 const c4 = () => import(/* webpackChunkName: "page--src--pages--jnec-vue" */ "/Users/vedikabasarkar/Documents/vedika-portfolio/src/pages/jnec.vue")
 const c5 = () => import(/* webpackChunkName: "page--src--pages--hobby-vue" */ "/Users/vedikabasarkar/Documents/vedika-portfolio/src/pages/hobby.vue")
 const c6 = () => import(/* webpackChunkName: "page--src--pages--fleet-management-vue" */ "/Users/vedikabasarkar/Documents/vedika-portfolio/src/pages/fleet-management.vue")
@@ -19,7 +19,7 @@ export default [
     component: c2
   },
   {
-    path: "/keychrons/",
+    path: "/keychron/",
     component: c3
   },
   {
