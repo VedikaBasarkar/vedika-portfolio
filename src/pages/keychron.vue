@@ -1,7 +1,7 @@
 <template>
  <MainLayout class="">
-    <div class="container">
-        <img src="https://res.cloudinary.com/db3h7h0pa/image/upload/v1662097175/website/keychron/1_tnszxs.jpg" />
+    <div class="">
+        <img src="https://res.cloudinary.com/db3h7h0pa/image/upload/v1662443750/website/keychron/K1_xwkt9a.jpg" />
         <!-- <div class="item-group" xyz="fade down-100% back-5 stagger-6">
             <div class="square xyz-in bg-red-300 p-10">hi</div>
             <div class="square xyz-in bg-red-300 p-10">hello</div>

@@ -80,7 +80,7 @@ export default {
               name:`Keychron`,
               title:`Keychron`,
               url:`/keychron`,
-              imgUrl:'https://res.cloudinary.com/db3h7h0pa/image/upload/v1662097175/website/keychron/1_tnszxs.jpg',
+              imgUrl:'https://res.cloudinary.com/db3h7h0pa/image/upload/v1662443745/website/keychron/a1_vhffx2.jpg',
           },
       ],
 
