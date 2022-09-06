@@ -9,11 +9,11 @@
             <img src="https://res.cloudinary.com/db3h7h0pa/image/upload/v1662381071/website/jnec/a5_su8g0a.jpg" />
             <img src="https://res.cloudinary.com/db3h7h0pa/image/upload/v1662381064/website/jnec/a6_jttj2q.jpg" />
             <!-- <img src="https://res.cloudinary.com/db3h7h0pa/image/upload/v1662381063/website/jnec/a7_n5sw72.jpg" /> -->
-            <img src="https://res.cloudinary.com/db3h7h0pa/image/upload/v1662381064/website/jnec/a8_ngvz7e.jpg" />
-            <img src="https://res.cloudinary.com/db3h7h0pa/image/upload/v1662381064/website/jnec/a9_z96hyl.jpg" />
-            <img src="https://res.cloudinary.com/db3h7h0pa/image/upload/v1662381065/website/jnec/a10_w2g3sl.jpg" />
+            <img src="https://res.cloudinary.com/db3h7h0pa/image/upload/v1662488780/website/jnec/a8_umf2dc.jpg" />
+            <img src="https://res.cloudinary.com/db3h7h0pa/image/upload/v1662488780/website/jnec/a9_iwlqu2.jpg" />
+            <img src="https://res.cloudinary.com/db3h7h0pa/image/upload/v1662488781/website/jnec/a10_r6urft.jpg" />
             <!-- <img src="https://res.cloudinary.com/db3h7h0pa/image/upload/v1662381064/website/jnec/a11_gcm5dn.jpg" /> -->
-            <!-- <img src="https://res.cloudinary.com/db3h7h0pa/image/upload/v1662381063/website/jnec/a12_z3vteh.jpg" /> -->
+            <img src="https://res.cloudinary.com/db3h7h0pa/image/upload/v1662489077/website/jnec/a12_giuwbj.jpg" />
             <img src="https://res.cloudinary.com/db3h7h0pa/image/upload/v1662381065/website/jnec/a13_fnlns6.jpg" />
             <!-- <img src="https://res.cloudinary.com/db3h7h0pa/image/upload/v1662381065/website/jnec/a14_ozr3fg.jpg" /> -->
             <div class="flex flex-row justify-center w-full">
