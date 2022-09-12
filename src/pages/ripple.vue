@@ -53,7 +53,6 @@
         <img src="https://res.cloudinary.com/db3h7h0pa/image/upload/v1662095520/website/ripple/49_wcgszj.jpg" />
         <img src="https://res.cloudinary.com/db3h7h0pa/image/upload/v1662095544/website/ripple/50_ubwtiq.jpg" />
         <img src="https://res.cloudinary.com/db3h7h0pa/image/upload/v1662095535/website/ripple/51_x0eeqn.jpg" />
-        <img src="https://res.cloudinary.com/db3h7h0pa/image/upload/v1662095543/website/ripple/52_kk3lkn.jpg" />
         <img src="https://res.cloudinary.com/db3h7h0pa/image/upload/v1662095549/website/ripple/53_q0vycm.jpg" />
         <img src="https://res.cloudinary.com/db3h7h0pa/image/upload/v1662095536/website/ripple/55_lcmaky.jpg" />
         <img src="https://res.cloudinary.com/db3h7h0pa/image/upload/v1662095520/website/ripple/56_zhbxtw.jpg" />
