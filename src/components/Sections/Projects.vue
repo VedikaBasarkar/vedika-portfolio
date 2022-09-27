@@ -1,7 +1,6 @@
 <template>
 <div>
   <!-- Ui Ux Project -->
-  <div class="text-2xl md:text-4xl px-6 md:px-20 md:pt-10">Web Designing and Developement</div>
   <div class="flex flex-row flex-wrap md:px-10">
     <div 
       v-for="(w, index) in webProjects"
@@ -11,7 +10,7 @@
       <div class="rounded-lg">
         <img class="rounded-3xl z-0 shadow-md hover:shadow-none" :src="w.imgUrl" />
       </div>
-      <div class="text-xl pt-4 leading-7">
+      <div class="text-2xl pt-4 leading-7">
         {{ w.name }}
       </div>
       </router-link>
@@ -29,7 +28,7 @@
       <div class="">
         <img class="rounded-3xl z-0 shadow-md hover:shadow-none" src="https://res.cloudinary.com/db3h7h0pa/image/upload/v1650085785/website/photography/IMG_0039_bsvozt.jpg" />
       </div>
-      <div class="text-xl pt-4 leading-7">
+      <div class="text-2xl pt-4 leading-7">
         Photography
       </div>
       </router-link>
@@ -41,7 +40,7 @@
       <div class="">
         <img class="rounded-3xl z-0 shadow-md hover:shadow-none0" src="https://res.cloudinary.com/db3h7h0pa/image/upload/v1650085920/website/photography/IMG_0967_dha9oj.jpg" />
       </div>
-      <div class="text-xl pt-4 leading-7">
+      <div class="text-2xl pt-4 leading-7">
         Hobbies and Artworks
       </div>
       </router-link>
