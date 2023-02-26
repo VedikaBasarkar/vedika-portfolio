@@ -62,27 +62,27 @@ export default {
               url:`/ripple`,
               imgUrl: 'https://res.cloudinary.com/db3h7h0pa/image/upload/v1662095526/website/ripple/1_jix322.jpg',
           },
+          //{
+          //   id:2,
+          //    name:`Fleet Management`,
+          //    title:`Fleet Management`,
+          //    url:`/fleet-management`,
+          //    imgUrl:'https://res.cloudinary.com/db3h7h0pa/image/upload/v1662097526/website/fleet-management/Slide_16_9_-_3_negke1.jpg',
+          //},
           {
               id:2,
-              name:`Fleet Management`,
-              title:`Fleet Management`,
-              url:`/fleet-management`,
-              imgUrl:'https://res.cloudinary.com/db3h7h0pa/image/upload/v1662097526/website/fleet-management/Slide_16_9_-_3_negke1.jpg',
-          },
-          {
-              id:3,
               name:`JNEC`,
               title:`JNEC`,
               url:`/jnec`,
               imgUrl:'https://res.cloudinary.com/db3h7h0pa/image/upload/v1662381061/website/jnec/a1_jynfak.jpg',
           },
-          {
-              id:4,
-              name:`Keychron`,
-              title:`Keychron`,
-              url:`/keychron`,
-              imgUrl:'https://res.cloudinary.com/db3h7h0pa/image/upload/v1662443745/website/keychron/a1_vhffx2.jpg',
-          },
+          //{
+          //   id:4,
+          //    name:`Keychron`,
+          //    title:`Keychron`,
+          //    url:`/keychron`,
+          //   imgUrl:'https://res.cloudinary.com/db3h7h0pa/image/upload/v1662443745/website/keychron/a1_vhffx2.jpg',
+         // },
       ],
 
     };
